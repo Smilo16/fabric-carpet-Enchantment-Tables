@@ -4,7 +4,7 @@
 
 Version in English [documentacion](https://github.com/gnembon/fabric-carpet/blob/master/README.md)  
 
-¿Porque todas las alfombras están hechas de tela?  
+Cause all carpets are made of fabric?
 
 Esta es una modificación muy menor del Carpet Mod que permite que los pistones empujen mesas encantadoras y cofre de ender.
 
